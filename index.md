@@ -3,6 +3,8 @@
 
 Welcome to My Home Page
 
+I like eggs
+
 {% assign date = '2020-04-13T10:20:00Z' %}
 
 - Original date - {{ date }}
