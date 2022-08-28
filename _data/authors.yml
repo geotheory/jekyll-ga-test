@@ -1,0 +1,8 @@
+abraham:
+  username: abraham
+  name: Abraham Lincoln
+  location: Kentucky, USA
+  url_full: http://jekyllt.github.io/jasper/
+  url: jekyllt.github.io/jasper
+  bio: I was the 16th president of the USA until I was assassinated in April of 1963. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
+  assets: assets/images/abraham.jpg
