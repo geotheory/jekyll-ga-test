@@ -66,3 +66,13 @@ exclude:
   - .travis.yml
   - node_modules
   - .git
+
+defaults:
+  # Posts defaults
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: posts # Apply the default values below only to posts
+    values:
+      cover: 'assets/images/cover4.jpg'
+      logo: 'assets/images/ghost.png'
+      navigation: True
