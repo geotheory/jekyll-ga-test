@@ -2,7 +2,7 @@
 layout: page
 title: About
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/elephant.logo.png'
 current: about
 ---
 

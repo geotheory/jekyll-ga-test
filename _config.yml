@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: "Splendid Elephant Ears Network"
+description: "Elephant ears are important"
 
 # short_url: 'jekyllt.github.io/jasper/'
 # google_analytics: UA-69281367-1
@@ -73,6 +73,6 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: posts # Apply the default values below only to posts
     values:
-      cover: 'assets/images/cover4.jpg'
-      logo: 'assets/images/ghost.png'
+      cover: 'assets/images/elephant.jpg'
+      logo: 'assets/images/elephant.logo.png'
       navigation: True
